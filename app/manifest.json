@@ -19,6 +19,10 @@
     "http://*/*",
     "https://*/*"
   ],
+  "web_accessible_resources": [
+    "bower_components/*",
+    "elements/*"
+  ],
   "content_scripts": [
     {
       "matches": [

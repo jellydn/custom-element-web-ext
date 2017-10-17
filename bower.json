@@ -2,7 +2,12 @@
   "name": "custom-element-web-ext",
   "private": true,
   "version": "0.0.0",
-  "dependencies": {},
+  "dependencies": {
+    "webcomponentsjs": "^1.0.14",
+    "polymer": "Polymer/polymer#^2.1.1",
+    "iron-icon": "PolymerElements/iron-icon#^2.0.0",
+    "iron-icons": "PolymerElements/iron-icons#^2.0.0"
+  },
   "devDependencies": {
     "chai": "^4.1.2",
     "mocha": "^4.0.1"
